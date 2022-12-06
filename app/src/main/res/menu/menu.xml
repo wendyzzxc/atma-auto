@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_pegawai"
+        android:title="pegawai" />
+
+    <item android:id="@+id/menu_supplier"
+        android:title="supplier" />
+
+    <item android:id="@+id/menu_jasa_service"
+        android:title="jasa service" />
+</menu>
